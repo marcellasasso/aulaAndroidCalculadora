@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="resultado">0</string>
+    <string name="btn0">0</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btnAC">AC</string>
+    <string name="btnMaisMenos">+/-</string>
+    <string name="btnPorcentagem">%</string>
+    <string name="btnAdicao">+</string>
+    <string name="btnSubtracao">-</string>
+    <string name="btnMultiplicacao">x</string>
+    <string name="btnDivisao">÷</string>
+    <string name="btnVirgula">,</string>
+    <string name="btnIgual">=</string>
+
+
+</resources>
